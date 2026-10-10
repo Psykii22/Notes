@@ -1,4 +1,3 @@
-# Computer Networks
 ## Types of Communication Between Two Devices
 
 1. **Simplex**
